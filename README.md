@@ -6,4 +6,4 @@ Ce projet s'inscrivait dans le programme d'anglais technique de première et de 
 Le dossier **CSS** => Contient l'ensemble des styles appliqués sur le site.<br>
 Le dossier **HTML** => Contient toutes les pages statiques et le fichier .htaccess.<br>
 Le dossier **JAVASCRIPT** => Contient les fonctionalités pour les parties dynamiques.<br>
-Le dossier **Sources** => Contient toutes les images utilisées sur le site.<br>
+Le dossier **SOURCES** => Contient toutes les images utilisées sur le site.<br>
