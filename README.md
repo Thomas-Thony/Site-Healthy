@@ -1,4 +1,4 @@
-# Site-Healthy <img src="https://github.com/Thomas-Thony/Site-Healthy/blob/main/SOURCES/HealthyFood2.png"/>
+# Site-Healthy <img src="https://github.com/Thomas-Thony/Site-Healthy/blob/main/SOURCES/HealthyFood2.png" width="80px" height="auto"/>
 Voici un projet de terminale de Bac STI2D option SIN, faire un site "éco-responsable", en anglais.
 Ce projet s'inscrivait dans le programme d'anglais technique de première et de terminale (Anglais ETLV).
 
