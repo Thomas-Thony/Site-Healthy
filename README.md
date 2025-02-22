@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Thomas-Thony/Site-Healthy/blob/main/SOURCES/HealthyFood2.png" width="100px" height="auto"/></p>
+<div style="text-align:center"><img src="https://github.com/Thomas-Thony/Site-Healthy/blob/main/SOURCES/HealthyFood2.png" width="100px" height="auto"/></div>
 # Site-Healthy 
 
 Voici un projet de terminale de Bac STI2D option SIN, faire un site "éco-responsable", en anglais.
